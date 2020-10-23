@@ -1,0 +1,10 @@
+{
+    "name": "Magento2 Zento Modules Workflow",
+    "description": "Zento CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Shell"
+    ],
+    "filePatterns": [
+    ]
+}
